@@ -47,7 +47,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.project</groupId>
-			<artifactId>FirstSpringProject</artifactId>
+			<artifactId>SpringJDBCProject</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>

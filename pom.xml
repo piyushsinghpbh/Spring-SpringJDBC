@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.learning</groupId>
-	<artifactId>SpringJDBCDemo</artifactId>
+	<artifactId>SpringJDBCProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringJDBCDemo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SpringJDBCProject</name>
+	<description>Demo project for Spring JDBC</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -44,6 +44,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.project</groupId>
+			<artifactId>FirstSpringProject</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
